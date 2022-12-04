@@ -1,0 +1,8 @@
+C:\Users\timon\source\repos\a\a\bin\Debug\a.exe.config
+C:\Users\timon\source\repos\a\a\bin\Debug\a.exe
+C:\Users\timon\source\repos\a\a\bin\Debug\a.pdb
+C:\Users\timon\source\repos\a\a\obj\Debug\a.csproj.AssemblyReference.cache
+C:\Users\timon\source\repos\a\a\obj\Debug\a.csproj.SuggestedBindingRedirects.cache
+C:\Users\timon\source\repos\a\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Users\timon\source\repos\a\a\obj\Debug\a.exe
+C:\Users\timon\source\repos\a\a\obj\Debug\a.pdb
